@@ -1,0 +1,14 @@
+{
+  "name": "ccr",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=0.8"
+  },
+  "engineStrict": true,
+  "dependencies": {
+    "bower": "1.2.7",
+    "gulp": "^3.8.1",
+    "gulp-bower": "0.0.6"
+  }
+}
