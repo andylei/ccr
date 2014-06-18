@@ -6,4 +6,5 @@ gulp.task('bower', function() {
     .pipe(gulp.dest('build/vendor/'));
 });
 
+gulp.task('default', ['bower']);
 
