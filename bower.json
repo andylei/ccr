@@ -12,6 +12,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "react": "~0.10.0"
+    "react": "~0.10.0",
+    "lodash": "~2.4.1"
   }
 }
